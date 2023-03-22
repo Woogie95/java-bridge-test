@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# java-bridge-test
+
 ## 기능
 - 다리 만드는 기능
   - 위에 다리
@@ -33,7 +34,3 @@
 - 매니저
 - 메인
 - 다리 팩토리
-
-=======
-# java-bridge-test
->>>>>>> origin/master
